@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/Default.aspx" title="Home"  description="">
+        <siteMapNode url="~/registration/Default.aspx" title="Registration"  description="" />
+        
+        <siteMapNode url="~/medical/Default.aspx" title="Medical"  description="">
+            <siteMapNode url="~/medical/doctor.aspx" title="Doctors"  description="" />
+        </siteMapNode>
+        <siteMapNode url="~/AboutWAMMInit.aspx" title="WAMM Init." description="" />
+        <siteMapNode url="~/AboutThisSite.aspx" title="This Site" description="" />
+    </siteMapNode>
+</siteMap>

@@ -1,0 +1,71 @@
+﻿body 
+{
+    
+    color: #04819e;
+    width: 900px;
+    margin:0 auto;
+}
+
+#wrapper
+{
+    position:relative;
+}
+
+header, h1, h2, h3
+{
+    color: #4212af;
+    text-align:center;
+}
+
+nav
+{
+    position:relative;
+    top: 70px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#center, .info
+{
+    text-align:center;
+    position:relative;
+    top: -80px;
+    width: 750px;
+    margin:0 auto;
+}
+
+.mGrid th {   
+    color: #4212af;   
+    background: #ffd473;   
+}
+
+#user
+{
+    text-align:center;
+}
+
+#anchors
+{
+    float:right;
+    position: relative;
+    top: -180px;
+    left: -145px;
+}
+
+#left
+{
+    text-align:left;
+    position:relative;
+    left: 90px;
+}
+
+.head
+{
+    position:relative;
+    left: 235px;
+    text-align:center;
+    font-size: x-large;
+    color: #4212af;
+}
